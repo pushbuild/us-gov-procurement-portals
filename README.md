@@ -2,6 +2,8 @@
 
 A census of US public-sector websites and where each one posts its bids: state agencies, counties, cities and towns, school districts, special districts and tribal governments in every state. Each row names the government, its website, the e-procurement platforms it links to (BidNet Direct, OpenGov, Bonfire, PlanetBids, QuestCDN, DemandStar and others) and its own bid or RFP pages. No contact data.
 
+Need this data in your own tool or automated? [pushbuild.com/apis](https://pushbuild.com/apis/?utm_source=github&utm_medium=readme&utm_campaign=us-gov-procurement-portals)
+
 **File:** [`gov_procurement_portals.csv`](gov_procurement_portals.csv), refreshed monthly.
 
 | column | meaning |
